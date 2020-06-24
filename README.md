@@ -1,2 +1,3 @@
 ### UNES-UNIVERSIDADE
-**Projeto prático em HTML.**
+**Projeto prático da Universidade UNES em HTML puro,
+usando os conceitos de tabelas.**
