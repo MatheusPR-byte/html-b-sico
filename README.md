@@ -1,1 +1,2 @@
-**Curso de Desenvolvimento Web Completo - Jamilton Damasceno, Jorge Sant Ana.**
+**Projeto prático em HTML.
+Usando de layout um site referênciado a Universidade UNES.
